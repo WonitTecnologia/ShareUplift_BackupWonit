@@ -1,0 +1,3 @@
+office365
+flask
+office365-rest-python-client
